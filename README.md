@@ -1,4 +1,4 @@
-LarryPy
+Larrypy
 ==========
 
 A Twitter web app, written in Django, by Daniele Faugiana (aka WiFau).
