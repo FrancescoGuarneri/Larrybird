@@ -12,7 +12,7 @@ License is available at http://www.gnu.org/licenses/gpl-3.0.txt
 =============
 EXTERNAL DEPENDANCIES
 
-These softwares are not in this repository but are necessary to let the app work.
+These softwares are not in this repository but will be necessary to let the app work.
 
 - Django is available at https://www.djangoproject.com
 - Twitter Bootstrap is available at http://twitter.github.com/bootstrap
