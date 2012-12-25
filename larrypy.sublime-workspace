@@ -1,0 +1,387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CO",
+				"CONSUMER_SECRET"
+			],
+			[
+				"CONSUMER",
+				"CONSUMER_KEY"
+			],
+			[
+				"request",
+				"request_token"
+			],
+			[
+				"auth",
+				"authorizeUser"
+			],
+			[
+				"layers",
+				"layersVoltage"
+			],
+			[
+				"la",
+				"layersVoltage"
+			],
+			[
+				"TCP",
+				"TCPServer"
+			],
+			[
+				"sock",
+				"SocketServer"
+			],
+			[
+				"cre",
+				"createTable"
+			],
+			[
+				"connection",
+				"connection_string"
+			],
+			[
+				"Data",
+				"DATABASE_HOST"
+			],
+			[
+				"data",
+				"DATABASE_USER"
+			],
+			[
+				"DATAB",
+				"DATABASE_FILE"
+			],
+			[
+				"Da",
+				"DateTimeCol"
+			],
+			[
+				"k",
+				"kx"
+			],
+			[
+				"q",
+				"q"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"get_user",
+				"get_current_user"
+			],
+			[
+				"get_current_u",
+				"get_current_user_id"
+			],
+			[
+				"ret",
+				"return_value"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"comm",
+				"command"
+			],
+			[
+				"comma",
+				"commandQueue"
+			],
+			[
+				"coma",
+				"commandQueue"
+			],
+			[
+				"Command",
+				"commandQueue"
+			],
+			[
+				"comman",
+				"commandList"
+			],
+			[
+				"fileh",
+				"filehnd"
+			],
+			[
+				"pasfile",
+				"pasfile"
+			],
+			[
+				"user",
+				"userHandlerTopic"
+			],
+			[
+				"pub",
+				"publishMessage"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/daniele/Dropbox/Projects/GitHub/Larrypy/connect/views.py",
+		"/Users/daniele/Dropbox/Projects/GitHub/Larrypy/connect/urls.py",
+		"/Users/daniele/Dropbox/Projects/GitHub/Larrypy/larrypy/templates/profile.html",
+		"/Users/daniele/Dropbox/Projects/GitHub/Larrypy/larrypy/urls.py",
+		"/Users/daniele/Desktop/resume.txt",
+		"/Users/daniele/Desktop/cover.txt",
+		"/Users/daniele/Dropbox/Documenti/Università/tesi/BGFET/snippets.txt",
+		"/Users/daniele/Dropbox/Documenti/Università/tesi/BGFET/bgtest.py",
+		"/Users/daniele/Dropbox/Documenti/Università/tesi/BGFET/bgfet.py",
+		"/Users/daniele/Dropbox/Documenti/Università/tesi/BGFET/constants.py",
+		"/Users/daniele/Dropbox/Documenti/Università/tesi/BGFET/functions.py",
+		"/Users/daniele/Dropbox/Projects/GitHub/LarryPy/snippets/larry.py",
+		"/Users/daniele/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/daniele/Dropbox/Projects/GitHub/ChatQTT/Chat/chat.js",
+		"/Users/daniele/Dropbox/Projects/GitHub/ChatQTT/Chat/style.css",
+		"/Users/daniele/Dropbox/Projects/GitHub/ChatQTT/Chat/index.php",
+		"/Users/daniele/Desktop/BGFET/bgfet.py",
+		"/Users/daniele/Desktop/BGFET/functions.py",
+		"/Users/daniele/Desktop/BGFET/constants.py",
+		"/Users/daniele/Desktop/BGFET/bgtest.py",
+		"/Users/daniele/Desktop/link.txt",
+		"/Users/daniele/Dropbox/Documenti/Personali/unixlike.wordpress.2012-09-19.xml",
+		"/Users/daniele/Desktop/BGFET/alphafit.py",
+		"/Users/daniele/Desktop/BGFET/snippets.txt",
+		"/Users/daniele/Documents/GitHub/Pyquitto/mosquitto.py",
+		"/Users/daniele/Documents/GitHub/Pyquitto/model.py",
+		"/Users/daniele/Documents/GitHub/Pyquitto/main.py",
+		"/Users/daniele/Documents/GitHub/Pyquitto/dbHandler.py",
+		"/Users/daniele/Documents/GitHub/Pyquitto/config.py",
+		"/Users/daniele/Documents/GitHub/Pyquitto/client.py",
+		"/Users/daniele/Documents/GitHub/Pyquitto/broker.py",
+		"/Users/daniele/Documents/GitHub/Pyquitto/README.md",
+		"/Users/daniele/Documents/GitHub/Pyquitto/topic.py",
+		"/Users/daniele/Documents/GitHub/Pyquitto/network.py",
+		"/Users/daniele/Documents/GitHub/Pyquitto/listener.py",
+		"/Users/daniele/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/daniele/Desktop/Esercizi/Esercizio.cpp",
+		"/Users/daniele/Library/Caches/Cleanup At Startup/Transmit/C68E97A5-B072-474E-ABAC-002FBF55601E/functions-custom.php",
+		"/Users/daniele/Documents/GitHub/WiFau/Pyquitto/functions.py",
+		"/Users/daniele/Documents/GitHub/WiFau/Pyquitto/security.py",
+		"/Users/daniele/Documents/GitHub/WiFau/Pyquitto/bridge.py",
+		"/Users/daniele/Documents/GitHub/WiFau/Pyquitto/auth.py",
+		"/Users/daniele/Documents/GitHub/WiFau/Pyquitto/users.py",
+		"/Users/daniele/Desktop/Cosmo Bridge/admin.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/CosmoBridge_plugin.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/data.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/exprocess.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/mail.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/mosquitto.py",
+		"/Users/daniele/Desktop/Cosmo Bridge/pycosmo.py",
+		"/Users/daniele/Desktop/Cosmo Bridge/shortcodes.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/submit.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/views.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/config.py",
+		"/Users/daniele/Desktop/Cosmo Bridge/panel.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/cosmo_bridge_plugin.php",
+		"/Users/daniele/Desktop/Test.cpp",
+		"/Users/daniele/Desktop/test/pycosmo.py",
+		"/Users/daniele/Desktop/test/exprocess.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/python/config.py",
+		"/Users/daniele/Desktop/Cosmo Bridge/python/pycosmo.py",
+		"/Users/daniele/Desktop/Cosmo Bridge/php/exprocess.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/php/submit.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/php/shortcodes.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/php/mail.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/php/admin.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/cosmowp_plugin.php",
+		"/Users/daniele/Desktop/Cosmo Bridge/python/test.py",
+		"/Users/daniele/Desktop/Cosmo Bridge/bridgetest.php",
+		"/Users/daniele/Documents/WorkSpace/GCAPI/controller.py",
+		"/Users/daniele/Desktop/CosmoWP/js/functions.js",
+		"/Users/daniele/Desktop/CosmoWP/js/check.js",
+		"/Users/daniele/Desktop/CosmoWP/cosmowp_plugin.php",
+		"/Users/daniele/Desktop/CosmoWP/php/admin.php",
+		"/Users/daniele/Desktop/CosmoWP/php/mail.php",
+		"/Users/daniele/Desktop/CosmoWP/php/shortcodes.php",
+		"/Users/daniele/Desktop/CosmoWP/js/admin.js",
+		"/Users/daniele/Desktop/CosmoWP/php/submit.php",
+		"/Users/daniele/Desktop/CosmoWP/db_form_plugin.php",
+		"/Users/daniele/Desktop/CosmoWP/screenshot-1.png",
+		"/Users/daniele/Desktop/CosmoWP/readme.txt",
+		"/private/var/folders/ff/8zqf1znn09x5mw8ssck0rghw0000gn/T/fz3temp-1/main.py",
+		"/private/var/folders/ff/8zqf1znn09x5mw8ssck0rghw0000gn/T/fz3temp-1/.htaccess 4",
+		"/Users/daniele/Desktop/pas.conf",
+		"/Users/daniele/Desktop/usrhnd/config.py",
+		"/Users/daniele/Desktop/usrhnd/controller.py",
+		"/Users/daniele/Desktop/usrhnd/model.py",
+		"/Users/daniele/Desktop/usrhnd/queue.py",
+		"/Users/daniele/Desktop/usrhnd/main.py",
+		"/Users/daniele/Desktop/usrhnd/mosquitto.py",
+		"/Users/daniele/Desktop/usrhnd/filehnd.py",
+		"/Users/daniele/Desktop/usrhnd/handler.py",
+		"/Users/daniele/Desktop/usrhnd/sub.py",
+		"/Users/daniele/Desktop/usrhnd/import handler",
+		"/Users/daniele/Desktop/accessfile",
+		"/Users/daniele/Desktop/testlib/MQTTClient.h",
+		"/Users/daniele/Desktop/knolleary-pubsubclient-8103659/PubSubClient/PubSubClient.h",
+		"/Users/daniele/Desktop/knolleary-pubsubclient-8103659/PubSubClient/PubSubClient.cpp",
+		"/Users/daniele/Desktop/Work/MQTT client/mqtt.py",
+		"/Users/daniele/Desktop/dropbox.py",
+		"/Users/daniele/Desktop/mqtt.py",
+		"/Users/daniele/Documents/GitHub/WiFau/PythonBird/README.md",
+		"/Users/daniele/Documents/GitHub/WiFau/PythonBird/license.txt",
+		"/private/var/folders/ff/8zqf1znn09x5mw8ssck0rghw0000gn/T/fz3temp-1/bp-activity-subscription-css.css",
+		"/Users/daniele/Documents/GitHub/GeekClass/buddypress/bp-themes/bp-default/footer.php",
+		"/Users/daniele/Documents/GitHub/WiFau/FastADC/README.md",
+		"/Users/daniele/Documents/GitHub/WiFau/FastADC/license.txt",
+		"/Users/daniele/Documents/GitHub/WiFau/SerialMonitor/license.txt",
+		"/private/var/folders/ff/8zqf1znn09x5mw8ssck0rghw0000gn/T/fz3temp-1/.htaccess",
+		"/Users/daniele/Documents/GitHub/GeekClass/buddypress/bp-languages/buddypress-it_IT.po",
+		"/Users/daniele/Documents/GitHub/GeekClass-Wordpress/wp-content/themes/frisco-for-buddypress/css/grey.css",
+		"/Users/daniele/Desktop/plugins/syntaxhighlighter/syntaxhighlighter.php",
+		"/Users/daniele/Documents/GitHub/GeekClass/frisco/custom.css",
+		"/private/etc/apache2/httpd.conf",
+		"/Library/WebServer/Documents/phpMyAdmin/config.php",
+		"/Users/daniele/Desktop/prova.py",
+		"/Users/daniele/Documents/GitHub/FastADC/.gitignore"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fortran",
+			"energy",
+			"loop",
+			"on_message",
+			"	\n",
+			"on_message",
+			"on_message callback",
+			"item-meta",
+			"item-header",
+			">');\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"head",
+				"/Users/daniele/Documents/GitHub/GeekClass/buddypress/bp-languages/buddypress-it_IT.po"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true
+}
