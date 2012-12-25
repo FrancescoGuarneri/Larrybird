@@ -36,9 +36,7 @@ NOTES
 This project is not Pythonbird anymore. It has a different target.
 You can find Pythonbird at http://github.com/pythonbird/pythonbird
 Pythonbird is a compilation of twitter tools for your Python shell.
-This is an independent web app. Anyway, part of the previous code is still here.
-Look for the "functions" folder. There, you'll find Pythonbird's essence.
-In the future, these functions are going to be modified and integrated in Larrypy.
+This is an independent web app.
 
 =============
 DISCLAIMER
