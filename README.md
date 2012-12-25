@@ -42,4 +42,4 @@ This is an independent web app.
 DISCLAIMER
 
 I am not responsible for any usage of this software, damages to other systems or unlawful actions.
-This software is provided as is, the responsibility relies ONLY on the final user.
+This software is provided as is without any warranty.
