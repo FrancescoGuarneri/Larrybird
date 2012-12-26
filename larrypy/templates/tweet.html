@@ -15,9 +15,10 @@
   	<body>
   		<div class="row">
   			<div class="span4 offset5">
-				<form action="tweet" method="post">{% csrf_token %}
-	  			<input type="text" name="tweet" id="tweet" value="Scrivi qui il tuo tweet" />
-				<input type="submit" value="Invia" />
+				<form action="tweet" method="post">
+          {% csrf_token %}
+	  			{{ form.as_p }}
+				<input type="submit" value="Invia">
 				</form>
 		</section>
 	</body>

@@ -91,6 +91,7 @@ SECRET_KEY = 'y3b4r97yb1379yrb19b91br97y1b4b19yb1b467d574x75x75'
 #Twitter developer application token
 CONSUMER_KEY = 'qSdtSuoLU8r9u6JbugFXw'
 CONSUMER_SECRET = 'S1fj4YjkJWQlc99jBMI5fhJjvwMmaZMvMaU2roM'
+USER_PASSWORD = 'uoLU8YqSdtSujkJWQlc99jBMI5fhJjvwvMaU'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
@@ -134,7 +135,7 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
-    'connect'
+    'tweets'
 )
 
 # A sample logging configuration. The only tangible logging
