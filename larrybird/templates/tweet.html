@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  	<head>
+    	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    	<title>Larrybird | Twitter Tools | Tweet</title>
+  	</head>
+  	<header>
+  			<h1>Larrybird</h1>
+  	</div>
+  	</header>
+  	<body>
+    	<form action="tweet" method="post">
+        {% csrf_token %}
+  			{{ form.as_p }}
+  		<input type="submit" value="Invia">
+	</body>
+</html>

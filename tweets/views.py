@@ -11,7 +11,7 @@ from larrypy.settings import CONSUMER_KEY, CONSUMER_SECRET, USER_PASSWORD
 
 class SignInView(FormView):
 	'''Sign in view for users access'''
-	template_name = 'signin.html'
+	template_name = 'home.html'
 	form_class = SignInForm
 	
 	def form_valid(self, form):
