@@ -1,4 +1,4 @@
-Larrypy
+Larrybird
 ==========
 
 A Twitter web app, written in Django, by Daniele Faugiana (aka WiFau).
@@ -21,7 +21,7 @@ These softwares are not in this repository but will be necessary to let the app 
 =============
 FEATURES
 
-Larrypy will be a compilation of twitter tools with a modern web interface.
+Larrybird will be a compilation of twitter tools with a modern web interface.
 
 - Twitter messsenger
 - Last tweets backup
