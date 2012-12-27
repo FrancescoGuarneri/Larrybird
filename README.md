@@ -36,11 +36,20 @@ NOTES
 This project is not Pythonbird anymore. It has a different target.
 You can find Pythonbird at http://github.com/pythonbird/pythonbird
 Pythonbird is a compilation of twitter tools for your Python shell.
+<<<<<<< HEAD
 This is an independent web app. 
+=======
+This is an independent web app.
+>>>>>>> 2610e26046b6e019b95de3c9b401ef895f2ce731
 
 =============
 DISCLAIMER
 
+<<<<<<< HEAD
 *THIS IS A WORK IN PROGRESS, DO NOT USE THIS CODE IN PRODUCTION ENVIRONMENTS*
 I am not responsible for any usage of this software, damages to other systems or unlawful actions.
 This software is provided as is, the responsibility relies ONLY on the final user.
+=======
+I am not responsible for any usage of this software, damages to other systems or unlawful actions.
+This software is provided as is without any warranty.
+>>>>>>> 2610e26046b6e019b95de3c9b401ef895f2ce731
