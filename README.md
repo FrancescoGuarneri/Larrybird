@@ -15,7 +15,6 @@ EXTERNAL DEPENDANCIES
 These softwares are not in this repository but will be necessary to let the app work.
 
 - Django is available at https://www.djangoproject.com
-- Twitter Bootstrap is available at http://twitter.github.com/bootstrap
 - Tweepy package is available at http://github.com/tweepy/tweepy.
 
 =============
@@ -41,6 +40,8 @@ This is an independent web app.
 =============
 DISCLAIMER
 
-THIS IS A WORK IN PROGRESS, DO NOT USE THIS CODE IN PRODUCTION ENVIRONMENTS
+THIS IS A WORK IN PROGRESS, DO NOT USE THIS CODE IN PRODUCTION ENVIRONMENTS.
+
+
 I am not responsible for any usage of this software, damages to other systems or unlawful actions.
 This software is provided as is, the responsibility relies ONLY on the final user.
