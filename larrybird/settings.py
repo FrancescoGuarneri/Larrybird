@@ -87,14 +87,6 @@ STATICFILES_FINDERS = (
 # Make this unique, and don't share it with anybody.
 SECRET_KEY = 'y3b4r97yb1379yrb19b91br97y1b4b19yb1b467d574x75x75'
 
-#Twitter developer application token
-CONSUMER_KEY = 'qSdtSuoLU8r9u6JbugFXw'
-CONSUMER_SECRET = 'S1fj4YjkJWQlc99jBMI5fhJjvwMmaZMvMaU2roM'
-
-#Users are authenticated via Twitter API.
-#There is a unique password for all users.
-#Users don't have to remember it.
-USER_PASSWORD = 'uoLU8YqSdtSujkJWQlc99jBMI5fhJjvwvMaU'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (

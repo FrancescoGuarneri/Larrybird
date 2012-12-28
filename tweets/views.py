@@ -1,12 +1,12 @@
 import tweepy
 from models import Tweep
+from sec import CONSUMER_KEY, CONSUMER_SECRET, USER_PASSWORD
 from forms import SignInForm, TweetForm
 from django.shortcuts import redirect
 from django.views.generic import View
 from django.contrib.auth import login, authenticate, logout
 from django.contrib.auth.models import User
 from django.views.generic.edit import FormView
-from larrypy.settings import CONSUMER_KEY, CONSUMER_SECRET, USER_PASSWORD
 
 
 class SignInView(FormView):
