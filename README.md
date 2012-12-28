@@ -5,7 +5,7 @@ A Twitter web app, written in Django, by Daniele Faugiana (aka WiFau).
 
 
 LICENSE
-__
+___
 This code is relased under the GPL version 3 license. See license.txt file.
 License is available at http://www.gnu.org/licenses/gpl-3.0.txt
 
